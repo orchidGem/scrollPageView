@@ -1,0 +1,12 @@
+PODS:
+  - EMPageViewController (3.0.0)
+
+DEPENDENCIES:
+  - EMPageViewController
+
+SPEC CHECKSUMS:
+  EMPageViewController: 8e0abc2b2f53f56a83044527eadbb56bd71ae3e3
+
+PODFILE CHECKSUM: 72189523b05a189393660935ddf9719c1d75500a
+
+COCOAPODS: 1.1.1
